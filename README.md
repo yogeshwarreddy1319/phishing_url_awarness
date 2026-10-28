@@ -67,6 +67,6 @@ This is an educational tool. It only reads URL text. It does not visit URLs, sca
 Use the workbook's reserved sample strings only. Do not collect credentials, send phishing messages, open suspicious links for testing, or scan/probe websites without written authorization. Do not upload passwords, tokens, API keys, or private data.
 
 ## Author
-[Replace with your name]  
-[Replace with your class/batch or course]  
+[Thummala Yogeswar reddy]  
+[Ai powered cybersecurity]  
 EWB Courses
